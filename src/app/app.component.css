@@ -1,0 +1,7 @@
+.modal-backdrop.show {
+  opacity: 0.7;
+}
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
