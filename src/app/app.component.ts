@@ -25,7 +25,7 @@ interface CartItem {
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  titulo = 'FakeStore';
+  titulo = 'MercaTodoSv';
   products: Product[] = [];
   filteredProducts: Product[] = [];
   categories: string[] = [];
